@@ -1,3 +1,4 @@
+<?php include 'common-functions.php' ;?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
